@@ -1,1 +1,1 @@
-# Data-Mining-Evaluasi-Mode
+# Data-Mining-Evaluasi-Model
